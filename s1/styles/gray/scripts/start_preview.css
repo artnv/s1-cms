@@ -1,0 +1,42 @@
+.preview h1 a {
+	color: #000;
+}
+.preview h1 a:hover {
+	color: #900;
+}
+.preview p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+	color: #000;
+}
+.preview_info {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 0.7em;
+	color: #999;
+	margin-top: 15px;
+}
+.preview {
+	margin-bottom: 40px;
+}
+.preview_date {
+	color: #000;
+}
+.preview_cnt_cmt {
+	color: #000;
+}
+.preview_autor {
+	color: #000;
+}
+#pnt {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 0.9em;
+	margin-bottom: 10px;
+}
+.preview_ul_li {
+	list-style:none;
+}
+.preview_ul {
+	margin: 0px;
+	padding: 0px;
+	margin: 25px 0 15px 10px;
+}

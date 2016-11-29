@@ -1,0 +1,139 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Times New Roman", Times, serif;
+}
+body a {color: #1a3dc1;}
+body a:visited, #footer_links a:visited {color:#800080;}
+body a:hover {
+	color: #900;
+}
+#main {
+	width: 960px;
+	margin: 0px auto 50px auto;
+}
+#header {
+}
+#header #logo {
+	text-align: center;
+	margin: 0;
+	font-size: 3em;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#header #logo a {
+	color: black;
+	text-decoration: none;
+}
+#left {
+	width: 200px;
+	float: left;
+	padding: 5px;
+}
+#left #menu ul {
+	margin: 0px;
+	padding: 0px;
+}
+#left #menu ul li {
+	list-style:none;
+}
+.menu_selected {
+	padding: 2px 0px 2px 10px;
+	margin-left: -10px;
+	background-color: #F5F5F5;
+}
+.s {
+	font-size: 1.6em;
+	margin-bottom: 10px;
+	font-family: "Times New Roman", Times, serif;
+}
+#menu ul .l.menu_selected a {
+	color: #707070 !important;
+}
+
+.l {
+	margin-bottom: 5px;
+}
+#menu  ul li a {
+	font-size: 1em;
+	color: #1a3dc1;
+	font-family: "Times New Roman", Times, serif;
+}
+#left #menu ul li a:hover {
+	color: #900;
+}
+#date {
+	font-size: 0.8em;
+	font-family: Verdana, Geneva, sans-serif;
+}
+#center #page p {
+	font-size: 1em;
+	font-family: "Times New Roman", Times, serif;
+}
+#center #page {
+	width: 690px;
+	padding: 30px 20px 50px 20px;
+	margin: 0px 0px 20px 220px;
+	border-radius: 5px;
+	background-color: #F5F5F5;
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#upmenu {
+	padding: 0px 40px 0px 220px;
+}
+#upmenu .upm {
+	display: inline;
+	float:right;
+	background: #9db2ac;
+	font-size: 1em;
+	padding: 4px 8px 4px 8px;
+	margin: 0px 0px 0px 4px;
+	border-radius: 4px 4px 0px 0px;
+}
+#upmenu .upm:hover {
+	background: #b8d1ca;
+}
+#upmenu .upm a {
+	color: #fff;
+	text-decoration: none;
+}
+.clear-r {
+	clear:right;
+}
+.clear-l {
+	clear: left;
+}
+.footer_links_b {
+	font-size: 1.1em;
+	margin-right: 20px;
+}
+#footer_links_h a {
+	margin-right: 10px;
+	font-size: 1em;
+	color: #00C;
+}
+#footer_links {
+	margin-left: 220px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+#footer_links #footer_links_m {
+	margin-top: 10px;
+}
+#footer_links #footer_links_m a {
+	margin-right: 10px;
+	color: #1a3dc1;
+}
+#footer_links #footer_links_m a:visited {
+color:#800080;
+}
+.footer_link_selected {
+	background-color: #F5F5F5;
+	color: #707070 !important;
+	padding: 3px;
+}
+.pnts {
+	margin-right: 10px;
+}

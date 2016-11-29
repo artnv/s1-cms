@@ -1,0 +1,28 @@
+.sitemap_dir a {
+	font-size: 1.1em;
+	color: #1A3DC1;
+	font-family: "Times New Roman", Times, serif;
+}
+.sm_main_dir {
+	font-size: 1.1em;
+	color: #1A3DC1;
+	font-family: "Times New Roman", Times, serif;
+	margin-top: -5px;
+	margin-bottom: 15px;
+}
+.sitemap_table_dir a {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+}
+.sitemap_table_dir {
+	margin-bottom: 30px;
+}
+
+.sitemap_dir {
+	margin-top: -5px;
+	margin-bottom: 15px;
+}
+#page h2 {
+	padding-top: 0px;
+	margin-top: 0px;
+}

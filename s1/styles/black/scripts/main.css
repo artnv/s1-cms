@@ -1,0 +1,137 @@
+body {
+	background-color: #000;
+	margin: 0px;
+	padding: 0px;
+	font-family: "Times New Roman", Times, serif;
+}
+body a {color: #9e0b0f;}
+body a:hover {color: #c50d12;}
+#main {
+	color:#6a6a6a;
+}
+#content {
+	width: 960px;
+	margin: 0px auto 50px auto;
+}
+#header {
+	height: 100px;
+	width: 100%;
+	border-bottom: 1px;
+	border-bottom-color: #313131;
+	border-bottom-style: solid;
+}
+#header #logo {
+	margin: 0;
+	font-size: 1.6em;
+	padding-top: 35px;
+	padding-left: 20px;
+}
+#header #logo a {
+	color: #ababab;
+	text-decoration: none;
+	position: absolute;
+}
+#left {
+	width: 200px;
+	float: left;
+	padding: 5px;
+}
+#left #menu  {
+	margin-top: 20px;
+}
+#left #menu ul {
+	margin: 0px;
+	padding: 0px;
+}
+#left #menu ul li {
+	list-style:none;
+}
+.s {
+	color: #ababab;
+	font-size: 1.6em;
+	margin-bottom: 10px;
+	font-family: "Times New Roman", Times, serif;
+}
+.menu_selected {
+	padding: 2px 0px 2px 10px;
+	margin-left: -10px;
+	background: #222222;
+}
+#menu ul .l.menu_selected a {
+	color: #636363 !important;
+	text-decoration: none;
+}
+.l {
+	margin-bottom: 5px;
+}
+#menu  ul li a {
+	font-size: 1em;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#date {
+	font-size: 0.7em;
+	font-family: Verdana, Geneva, sans-serif;
+}
+#center #page p {
+	font-size: 1em;
+	font-family: "Times New Roman", Times, serif;
+}
+#center #page {
+	width: 690px;
+	padding: 30px 20px 50px 20px;
+	margin: 0px 0px 20px 220px;
+	border-radius: 5px;
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color:#ababab;
+}
+#upmenu {
+	margin: 2px 30px 0 0;
+}
+#upmenu .upm {
+	display: inline;
+	float:right;
+	font-size: 1em;
+	padding: 4px 8px 4px 8px;
+	margin: 0px 0px 0px 4px;
+}
+
+
+.clear-r {
+	clear:right;
+}
+.clear-l {
+	clear: left;
+}
+.footer_links_b {
+	font-size: 1.1em;
+	margin-right: 20px;
+	color:#ababab;
+}
+#footer_links_h a {
+	margin-right: 10px;
+	font-size: 1em;
+}
+#footer_links {
+	margin: 50px 10px 20px 240px;
+}
+#footer_links #footer_links_m {
+	margin-top: 10px;
+}
+#footer_links #footer_links_m a {
+	margin-right: 10px;
+}
+#footer_links #footer_links_m a:visited {
+	color:#75080b;
+}
+.footer_link_selected {
+	background-color: #222222;
+	color: #636363 !important;
+	text-decoration: none;
+	padding: 3px;
+}
+.pnts {
+	margin-right: 10px;
+}
